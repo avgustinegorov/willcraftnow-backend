@@ -1,0 +1,83 @@
+{% extends 'email_templates/base_template.html' %} {% block content %}
+<h1 style="text-align: center;">
+  Thank you for using WillCraft.&nbsp;
+</h1>
+
+<p dir="ltr">
+  <br />
+  <span style="font-size:14px">Dear {{user}},</span>
+</p>
+
+<p dir="ltr" style="text-align: justify;">
+  <span style="font-size:14px"
+    >Thank you for using WillCraft! You have agreed that {{firm}} will review
+    and be witness to your Will for a fixed fee of {{fee}} which has already
+    been collected. The order number with regard to the Will is {{order}}.</span
+  >
+</p>
+
+<p dir="ltr" style="text-align: justify;">
+  <span style="font-size:14px"
+    >As set out on our site, the Scope of Work shall be limited to an in-person
+    meeting of 15-minutes’ duration strictly in respect of the following:</span
+  >
+</p>
+
+<ol dir="ltr" style="padding-left: 1em; list-style-type:lower-alpha">
+  <li style="text-align: justify;">
+    <span style="font-size:14px; left:0.5em; position:relative"
+      >To explain the draft Will to you and check that your intentions are
+      accurately effected in the draft Will according to what is entered by you
+      into the WillCraft online platform at www.willcraftnow.com;</span
+    >
+  </li>
+  <li style="padding-top: 0.5em; text-align: justify;">
+    <span style="font-size:14px; left:0.5em; position:relative"
+      >To check that the draft Will complies with all verifiable legal
+      formalities including confirming that you are above 21 years old, of sound
+      mind, and that you understand the contents of the draft Will; and</span
+    >
+  </li>
+  <li style="padding-top: 0.5em; text-align: justify;">
+    <span style="font-size:14px; left:0.5em; position:relative"
+      >To witness the execution of your Will. (Note: there will be two witnesses
+      provided, which may include the lawyer reviewing the draft Will).</span
+    >
+  </li>
+</ol>
+
+<p dir="ltr" style="text-align: justify;">
+  <span style="font-size:14px"
+    >You'll also find attached the standard terms and conditions of {{firm}}
+    which governs this engagement.</span
+  >
+</p>
+
+<p dir="ltr" style="text-align: justify;">
+  <span style="font-size:14px"
+    ><strong>IMPORTANT</strong>: In order to facilitate the engagement, please
+    send over a picture of your NRIC so that the lawyer may verify your age and
+    identity.</span
+  >
+</p>
+
+<p dir="ltr" style="text-align: justify;">
+  <span style="font-size:14px"
+    >Please note that this engagement is strictly between the Legal Service
+    Provider and yourself. WillCraft does not take any referral fees or
+    participate in any profit sharing with the Legal Service Providers.</span
+  >
+</p>
+
+<p dir="ltr" style="text-align: justify;">
+  <span style="font-size:14px"
+    >We really care about your experience with us, so if you have any comments
+    or feedback, or would like to get in touch, email us at
+    <a
+      href="mailto:enquiries@willcraftnow.com?subject=Feedback%20and%20Comments%20on%20Will%20Drafting%20Service"
+      target="_blank"
+      >enquiries@willcraftnow.com</a
+    >.</span
+  >
+</p>
+{% endblock %}

@@ -1,0 +1,18 @@
+Dear {{user}},
+
+You’re all done! If you enjoyed using WillCraft and have a friend who’ll enjoy using us too, refer them using your personal referral code for a discount of S$9.90. The referral code is found on your dashboard.
+
+Attached to this email you’ll find a PDF of your draft Will and an Execution Letter. The password to access your Will is your NRIC/Passport number. You’ll need to follow the instructions in the Execution Letter to make sure your Will is signed properly. The Execution Letter tells you what you need to do, but if you have any other questions, don’t hesitate to reach out to your lawyer for legal advice. You may also contact us at enquiries@willcraftnow.com and we'll be happy to refer you to one of our Legal Service Providers.
+
+If you've selected to be referred to a Legal Service Provider, you'll find another from us linking you and the Legal Service Provider. A Lawyer from the Legal Service Provider will contact you within 3 business days. Your order number is {{order}}.
+
+We really care about your experience with us, so if you have any comments or would like to get in touch, email us at enquiries@willcraftnow.com.
+
+Thank you for using WillCraft!
+
+Yours,
+The WillCraft Team
+
+
+------------------------------------------
+WARNING : This email may contain information that is private and confidential. If you receive this email by mistake, you should immediately notify the sender and delete the email.

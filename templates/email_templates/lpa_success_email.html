@@ -1,0 +1,50 @@
+{% extends 'email_templates/base_template.html' %} {% block content %}
+<h1 dir="ltr" style="text-align: center;">
+  Thank you for using WillCraft.&nbsp;
+</h1>
+
+<p dir="ltr" style="text-align: justify;">
+  <br />
+  <span style="font-size:14px">Dear {{user}},</span>
+</p>
+
+<p dir="ltr" style="text-align: justify;">
+  <span style="font-size:14px"
+    >You’re all done! Your order number is {{order}}. If you enjoyed using
+    WillCraft and have a friend who’ll enjoy using us too, refer them using your
+    personal referral code for a discount of S$9.90. The referral code is found
+    on your dashboard.</span
+  >
+</p>
+
+<p dir="ltr" style="text-align: justify;">
+  <span style="font-size:14px"
+    >Attached to this email you’ll find a PDF of your draft LPA and an Execution
+    Letter. The password to access your LPA is your NRIC/Passport number. An LPA
+    requires a Certificate Provider which you have already chosen from our list
+    of Legal Service Providers. Please go through the Execution letter, and a
+    Lawyer from the Legal Service Provider will be in touch within three (3)
+    business days to complete the execution of your LPA, and guide you through
+    the rest of the process.
+  </span>
+</p>
+
+<p dir="ltr" style="text-align: justify;">
+  <span style="font-size:14px"
+    >If you have any other questions, don’t hesitate to reach out to your chosen
+    Legal Service Provider for legal advice. You may also contact us at
+    <a
+      href="mailto:enquiries@willcraftnow.com?subject=Feedback%20and%20Comments%20on%20Will%20Drafting%20Service"
+      target="_blank"
+      >enquiries@willcraftnow.com</a
+    ></span
+  >
+</p>
+
+<p dir="ltr" style="text-align: justify;">
+  <span style="font-size:14px"
+    >We really care about your experience with us, so if you have any comments
+    or would like to get in touch, email us at enquiries@willcraftnow.com.</span
+  >
+</p>
+{% endblock %}

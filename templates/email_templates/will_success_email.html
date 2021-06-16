@@ -1,0 +1,57 @@
+{% extends 'email_templates/base_template.html' %}
+{% block content %}
+  <h1 dir="ltr" style="text-align: center;">
+    Thank you for using WillCraft.&nbsp;
+  </h1>
+
+  <p dir="ltr" style="text-align: justify;">
+    <br />
+    <span style="font-size:14px">Dear {{user}},</span>
+  </p>
+
+  <p dir="ltr" style="text-align: justify;">
+    <span style="font-size:14px">You’re all done! If you enjoyed using
+      WillCraft and have a friend who’ll enjoy
+      using us too, refer them using your
+      personal referral code for a discount of S$9.90. The referral code is found on your
+      dashboard.</span>
+  </p>
+
+  <p dir="ltr" style="text-align: justify;">
+    <span style="font-size:14px">Attached to this email you’ll find a PDF
+      of your draft Will and an Execution
+      Letter. The password to access your Will
+      is your NRIC/Passport number. You’ll need
+      to follow the instructions in the
+      Execution Letter to make sure your Will is
+      signed properly.
+    </span>
+  </p>
+
+  <p dir="ltr" style="text-align: justify;">
+    <span style="font-size:14px">The Execution Letter tells you what you
+      need to do, but if you have any other
+      questions, don’t hesitate to reach out to
+      your lawyer for legal advice. You may also
+      contact us at
+      <a href="mailto:enquiries@willcraftnow.com?subject=Feedback%20and%20Comments%20on%20Will%20Drafting%20Service" target="_blank">enquiries@willcraftnow.com</a>&nbsp;and we'll be happy to refer you to
+      one of our Legal Service Providers.</span>
+  </p>
+
+  <p dir="ltr" style="text-align: justify;">
+    <span style="font-size:14px">If you've selected to be referred to a
+      Legal Service Provider, you'll find
+      another from us linking you and the Legal
+      Service Provider. A Lawyer from the Legal
+      Service Provider will contact you within 3
+      business days. Your order number is
+      {{order}}.</span>
+  </p>
+
+  <p dir="ltr" style="text-align: justify;">
+    <span style="font-size:14px">We really care about your experience with
+      us, so if you have any comments or would
+      like to get in touch, email us at
+      enquiries@willcraftnow.com.</span>
+  </p>
+{% endblock %}

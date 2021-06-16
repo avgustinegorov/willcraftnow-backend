@@ -1,0 +1,1022 @@
+# Translations to Mandarin
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-03 19:04+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"没有翻译Project-Id-Version: PACKAGE VERSION\n"
+
+#: assets/models.py:9
+msgid "In My Own Name"
+msgstr "个人所有"
+
+#: assets/models.py:10
+msgid "Jointly With Another"
+msgstr "与他人共有"
+
+#: assets/models.py:52
+msgid "Entity"
+msgstr "实体"
+
+#: assets/models.py:61
+msgid "Allocation Percentage"
+msgstr "分配比例"
+
+#: assets/models.py:64
+msgid "Allocation Amount"
+msgstr "分配数量"
+
+#: assets/models.py:70
+msgid "Effective Allocation Percentage"
+msgstr "有效的分配比例"
+
+#: assets/models.py:76
+msgid "Effective Allocation Amount"
+msgstr "有效的分配数量"
+
+#: assets/models.py:235
+msgid "Asset Category"
+msgstr "资产种类"
+
+#: assets/models.py:257
+#, fuzzy
+#| msgid "Real Estate Type"
+msgid "Real Estate"
+msgstr "房产种类"
+
+#: assets/models.py:258
+msgid "Bank Account"
+msgstr "银行账户"
+
+#: assets/models.py:259
+#, fuzzy
+#| msgid "Insurance Plan"
+msgid "Insurance Policy"
+msgstr "保险计划"
+
+#: assets/models.py:260
+#, fuzzy
+#| msgid "Investment Account Number"
+msgid "Investment Account"
+msgstr "投资账户号"
+
+#: assets/models.py:261
+#, fuzzy
+#| msgid "Amount of Ordinary Shares"
+msgid "Company Ordinary Shares"
+msgstr "普通股数量"
+
+#: assets/models.py:262
+msgid "Residual Assets"
+msgstr "剩余资产"
+
+#: assets/models.py:282 persons/enums.py:86
+msgid "HDB Flat"
+msgstr "政府组屋"
+
+#: assets/models.py:283 persons/enums.py:87
+msgid "HDB Executive Condominium"
+msgstr "执行共管公寓"
+
+#: assets/models.py:284 persons/enums.py:88
+msgid "Private Condominium"
+msgstr "私人公寓"
+
+#: assets/models.py:285 persons/enums.py:89
+msgid "Terrace"
+msgstr "排房"
+
+#: assets/models.py:286 persons/enums.py:90
+msgid "Semi-Detached"
+msgstr "联排别墅"
+
+#: assets/models.py:287 persons/enums.py:91
+msgid "Bungalow"
+msgstr "独栋别墅"
+
+#: assets/models.py:291
+msgid "Fully Paid Up"
+msgstr "全额付清"
+
+#: assets/models.py:292
+msgid "Still Under Mortgage"
+msgstr "仍处于抵押贷款下"
+
+#: assets/models.py:296
+msgid "Sole Owner"
+msgstr "个人独有"
+
+#: assets/models.py:297
+msgid "Joint Tenant"
+msgstr "联权共有人"
+
+#: assets/models.py:298
+msgid "Tenant in Common"
+msgstr "分权共有人"
+
+#: assets/models.py:302 persons/models.py:173
+msgid "Block No."
+msgstr "楼层"
+
+#: assets/models.py:305 persons/models.py:176
+msgid "Floor No."
+msgstr "楼层"
+
+#: assets/models.py:308 persons/models.py:179
+msgid "Unit No."
+msgstr "单位编号"
+
+#: assets/models.py:311 persons/models.py:182
+msgid "Street Name"
+msgstr "街道"
+
+#: assets/models.py:313
+msgid "Country"
+msgstr "国家"
+
+#: assets/models.py:315 persons/models.py:186
+msgid "Postal Code"
+msgstr "邮政编码"
+
+#: assets/models.py:318 persons/models.py:170
+msgid "Address"
+msgstr "地址"
+
+#: assets/models.py:326
+msgid "Real Estate Type"
+msgstr "房产种类"
+
+#: assets/models.py:332
+msgid "Mortgage"
+msgstr "抵押贷款"
+
+#: assets/models.py:338 assets/models.py:418 assets/models.py:476
+msgid "Holding Type"
+msgstr "持有方式"
+
+#: assets/models.py:410
+msgid "Bank"
+msgstr "银行"
+
+#: assets/models.py:412
+msgid "Account Number"
+msgstr "账号"
+
+#: assets/models.py:436 persons/enums.py:32 powers/models.py:11
+msgid "No"
+msgstr "无"
+
+#: assets/models.py:436 persons/enums.py:33 powers/models.py:12
+msgid "Yes"
+msgstr "有"
+
+#: assets/models.py:437
+msgid "Insurer"
+msgstr "承保人"
+
+#: assets/models.py:439
+msgid "Insurance Plan"
+msgstr "保险计划"
+
+#: assets/models.py:442
+msgid "Policy Number"
+msgstr "保单号"
+
+#: assets/models.py:448
+msgid "Has Existing Nomination"
+msgstr "已有提名"
+
+#: assets/models.py:467
+msgid "Bank/Financial Institution"
+msgstr "银行、金融机构"
+
+#: assets/models.py:470
+msgid "Investment Account Number"
+msgstr "投资账户号"
+
+#: assets/models.py:494
+msgid "Company Name"
+msgstr "公司名称"
+
+#: assets/models.py:496
+msgid "Company Registration Number"
+msgstr "公司注册号"
+
+#: assets/models.py:499
+msgid "Country of Incorporation"
+msgstr "公司注册地"
+
+#: assets/models.py:502
+msgid "Amount of Ordinary Shares"
+msgstr "普通股数量"
+
+#: assets/models.py:506
+msgid "Percentage of Ordinary Shares Owned"
+msgstr "持有普通股比例"
+
+#: assets/serializers.py:25 persons/enums.py:10
+msgid "Beneficiary"
+msgstr "受益人"
+
+#: assets/serializers.py:64 assets/serializers.py:516
+msgid "Percentage can not be above 100%"
+msgstr "比例不能超过100%"
+
+#: assets/serializers.py:67 assets/serializers.py:519
+msgid "Percentage can not be 0% or below 0%"
+msgstr "比例不能为0%或小于0%。"
+
+#: assets/serializers.py:75
+msgid "A Witness can not be allocated to."
+msgstr "见证人不能接受遗产分配。"
+
+#: assets/serializers.py:97
+msgid "You cannot allocate a cash distribution for this asset."
+msgstr "您无法为此资产进行现金分配。"
+
+#: assets/serializers.py:115
+#, fuzzy
+#| msgid ""
+#| "This person already is a Substitute Beneficiary, delete the Substitute "
+#| "Allocation before proceeding."
+msgid ""
+"This person already is a Substitute entity, delete the Substitute Allocation "
+"before proceeding."
+msgstr "此人已经是替代受益人，请先删除替代分配再继续。"
+
+#: assets/serializers.py:126
+#, fuzzy
+#| msgid "Total percentage allocated for sub-beneficiaries more than 100."
+msgid "Total percentage allocated for sub-entities more than 100."
+msgstr "分配给替代受益人的总比例超过100%。"
+
+#: assets/serializers.py:137
+#, fuzzy
+#| msgid "Total amount allocated for sub-beneficiaries more than than total"
+msgid "Total amount allocated for sub-entities more than than total"
+msgstr "分配给替代受益人的总数大于总量。"
+
+#: assets/serializers.py:150
+msgid "Only percentage allocations are allowed"
+msgstr "只能进行比例分配。"
+
+#: assets/serializers.py:162
+msgid "Can only have amount allocation"
+msgstr "只能进行数额分配。"
+
+#: assets/serializers.py:169
+#, fuzzy
+#| msgid "Cannot allocate a Substitute Allocation to the same Beneficiary."
+msgid "Cannot allocate a Substitute Allocation to the same Entity."
+msgstr "不能将替代分配分配给同一名受益人。"
+
+#: assets/serializers.py:182
+msgid "Total allocated percentage cannot be more than 100."
+msgstr "总分配比例不能超过100%。"
+
+#: assets/serializers.py:202
+msgid "You have already allocated to this Appointment."
+msgstr "您已经给此人分配过了。"
+
+#: assets/serializers.py:450
+msgid ""
+"This will only covers assets in Singapore, please include only real estate "
+"located in Singapore."
+msgstr "该遗嘱只包括新加坡内的资产，请只添加新加坡内的房产。"
+
+#: assets/serializers.py:526
+msgid ""
+"This Will only covers assets in Singapore, please include only companies "
+"incorporated in Singapore."
+msgstr "该遗嘱只包括新加坡内的资产，请只添加在新加坡注册的公司。"
+
+#: assets/serializers.py:545
+#, fuzzy
+#| msgid "You can only have one residual asset per order"
+msgid "You can only have one residual asset per user"
+msgstr "每个订单只能有一份剩余资产。"
+
+#: assets/serializers.py:556 persons/serializers.py:19
+#: persons/serializers.py:33 persons/serializers.py:253
+msgid "Person"
+msgstr "人"
+
+#: billing/serializers.py:27
+msgid "Discount Code does not exist!"
+msgstr "优惠码不存在！"
+
+#: billing/serializers.py:34
+msgid "Discount Code is currently not active!"
+msgstr "优惠码目前尚未生效！"
+
+#: billing/serializers.py:43
+msgid "Discount Code has expired!"
+msgstr "优惠码已过期！"
+
+#: billing/serializers.py:52
+msgid "Discount Code has been redeemed!"
+msgstr "优惠码已被兑换使用！"
+
+#: email_marketing/models.py:48 willcraft_auth/models.py:55
+msgid "email address"
+msgstr "邮箱地址"
+
+#: email_marketing/models.py:56
+msgid "Unsubscribe from Newsletter"
+msgstr "退订通讯"
+
+#: lastrites/models.py:14
+msgid "Held at a crematorium"
+msgstr "保存在火葬场"
+
+#: lastrites/models.py:15
+msgid "Buried in Singapore"
+msgstr "埋葬在新加坡"
+
+#: lastrites/models.py:16
+msgid "Scattered in the Sea"
+msgstr "海葬"
+
+#: lastrites/models.py:22
+msgid "Mandai Crematorium and Columbarium Complex"
+msgstr "万礼火葬场及骨灰安置所"
+
+#: lastrites/models.py:24
+msgid "Choa Chu Kang Columbarium"
+msgstr "义顺火葬场"
+
+#: lastrites/models.py:25
+msgid "Tse Toh Aum Temple"
+msgstr "自度庵"
+
+#: lastrites/models.py:28
+msgid "Kong Meng San Phor Kark See Monastery"
+msgstr "光明山普觉禅寺"
+
+#: lastrites/models.py:41
+msgid "Instructions"
+msgstr "指示"
+
+#: lastrites/models.py:48
+msgid "Crematorium Location"
+msgstr "火葬场地址"
+
+#: lastrites/models.py:67
+msgid "Non-religious"
+msgstr "无宗教信仰"
+
+#: lastrites/models.py:68 persons/enums.py:52
+msgid "Christian"
+msgstr "基督教徒"
+
+#: lastrites/models.py:69 persons/enums.py:53
+msgid "Hindu"
+msgstr "印度教教徒"
+
+#: lastrites/models.py:70 persons/enums.py:54
+msgid "Buddhist"
+msgstr "佛教徒"
+
+#: lastrites/models.py:71 persons/enums.py:55
+msgid "Taoist"
+msgstr "道教教徒"
+
+#: lastrites/models.py:72 persons/enums.py:56
+msgid "Catholic"
+msgstr "天主教徒"
+
+#: lastrites/models.py:73 persons/enums.py:57
+msgid "Sikh"
+msgstr "锡克教教徒"
+
+#: lastrites/models.py:85
+msgid "Religion for Funeral Rites"
+msgstr "何种宗教的葬礼仪式"
+
+#: lastrites/models.py:88
+msgid "Location of Funeral"
+msgstr "葬礼地点"
+
+#: lastrites/models.py:91
+msgid "Duration of Funeral (Days)"
+msgstr "葬礼持续时间（天）"
+
+#: lawyer_services/models.py:14 lawyer_services/serializers.py:29
+msgid "Firm"
+msgstr "律师事务所"
+
+#: lawyer_services/serializers.py:35
+#, python-brace-format
+msgid "Only one instance of {self.Meta.model} allowed."
+msgstr "只能允许一种{self.Meta.model}。"
+
+#: persons/enums.py:5
+msgid "Executor"
+msgstr "执行人"
+
+#: persons/enums.py:6
+msgid "Substutite Executor"
+msgstr "替代执行人"
+
+#: persons/enums.py:7
+msgid "Guardian"
+msgstr "监护人"
+
+#: persons/enums.py:8
+msgid "Substitute Guardian"
+msgstr "替代监护人"
+
+#: persons/enums.py:9
+msgid "Witness"
+msgstr "见证人"
+
+#: persons/enums.py:11 persons/models.py:58 persons/serializers.py:178
+#: persons/serializers.py:189
+msgid "Donee"
+msgstr "被授权人"
+
+#: persons/enums.py:12
+msgid "Replacement Donee"
+msgstr "替代被授权人"
+
+#: persons/enums.py:13
+msgid "Applicant"
+msgstr "申请人"
+
+#: persons/enums.py:18
+msgid "Any Donee"
+msgstr "被授权人"
+
+#: persons/enums.py:19
+msgid "Any Personal Welfare Donee"
+msgstr "任何个人福利方面的被授权人"
+
+#: persons/enums.py:20
+msgid "Any Property and Affairs Donee"
+msgstr "任何房产及其他事务方面的被授权人"
+
+#: persons/enums.py:21
+msgid "Named Donee"
+msgstr "替代被授权人"
+
+#: persons/enums.py:25
+msgid "Personal Welfare Only"
+msgstr "仅限个人福利"
+
+#: persons/enums.py:26
+msgid "Property and Affairs Only"
+msgstr "仅限房产与其他事务"
+
+#: persons/enums.py:27
+msgid "Personal Welfare and Property and Affairs"
+msgstr "个人福利、房产与其他事务"
+
+#: persons/enums.py:37
+msgid "NRIC"
+msgstr "NRIC"
+
+#: persons/enums.py:38
+msgid "FIN"
+msgstr "FIN"
+
+#: persons/enums.py:39
+msgid "Passport"
+msgstr "护照"
+
+#: persons/enums.py:42
+msgid "Male"
+msgstr "男"
+
+#: persons/enums.py:42
+msgid "Female"
+msgstr "女"
+
+#: persons/enums.py:45
+msgid "Married"
+msgstr "已婚"
+
+#: persons/enums.py:46
+msgid "Single"
+msgstr "未婚"
+
+#: persons/enums.py:47
+msgid "Divorced"
+msgstr "离异"
+
+#: persons/enums.py:51
+msgid "Not Religious"
+msgstr "无宗教信仰"
+
+#: persons/enums.py:61
+msgid "Wife"
+msgstr "妻子"
+
+#: persons/enums.py:62
+msgid "Husband"
+msgstr "丈夫"
+
+#: persons/enums.py:63
+msgid "Son"
+msgstr "儿子"
+
+#: persons/enums.py:64
+msgid "Daughter"
+msgstr "女儿"
+
+#: persons/enums.py:65
+msgid "Aunt"
+msgstr "姑母"
+
+#: persons/enums.py:66
+msgid "Uncle"
+msgstr "叔父"
+
+#: persons/enums.py:67
+msgid "Brother"
+msgstr "兄弟"
+
+#: persons/enums.py:68
+msgid "Sister"
+msgstr "姐妹"
+
+#: persons/enums.py:69
+msgid "Father"
+msgstr "父亲"
+
+#: persons/enums.py:70
+msgid "Mother"
+msgstr "母亲"
+
+#: persons/enums.py:71
+msgid "Grandfather"
+msgstr "祖父"
+
+#: persons/enums.py:72
+msgid "Grandmother"
+msgstr "祖母"
+
+#: persons/enums.py:73
+msgid "Cousin"
+msgstr "堂（表）兄弟姐妹"
+
+#: persons/enums.py:74
+msgid "Nephew"
+msgstr "侄子"
+
+#: persons/enums.py:75
+msgid "Niece"
+msgstr "侄女"
+
+#: persons/enums.py:76
+msgid "Other"
+msgstr "其他"
+
+#: persons/enums.py:80
+msgid "Singapore Citizen"
+msgstr "新加坡公民"
+
+#: persons/enums.py:81
+msgid "Singapore PR"
+msgstr "新加坡永久居民"
+
+#: persons/enums.py:82
+msgid "Foreigner"
+msgstr "外国人"
+
+#: persons/models.py:61
+msgid "Powers"
+msgstr "权力"
+
+#: persons/models.py:67
+msgid "Replacement Type"
+msgstr "替换类型"
+
+#: persons/models.py:74
+msgid "Named Replacement"
+msgstr "已命名的替换"
+
+#: persons/models.py:96 persons/models.py:301
+msgid "{} ({} No. {})"
+msgstr "{} ({}号 {})"
+
+#: persons/models.py:117
+msgid "Entity Type"
+msgstr "实体类型"
+
+#: persons/models.py:133 persons/models.py:150
+msgid "Name"
+msgstr "姓名"
+
+#: persons/models.py:134
+msgid "UEN"
+msgstr "实体编号"
+
+#: persons/models.py:143
+#, fuzzy
+#| msgid "{} ({} No. {})"
+msgid "{} (UEN No. {})"
+msgstr "{} (实体编号. {})"
+
+#: persons/models.py:151
+msgid "Identification Number"
+msgstr "证件号码"
+
+#: persons/models.py:155
+msgid "Identification Document"
+msgstr "验证邮件"
+
+#: persons/models.py:159
+msgid "Country of Issue (Identification Document)"
+msgstr "签发国(验证邮件)"
+
+#: persons/models.py:161
+msgid "Age"
+msgstr "年龄"
+
+#: persons/models.py:162
+msgid "Date of Birth"
+msgstr "出生年月"
+
+#: persons/models.py:167
+#, fuzzy
+#| msgid "Holding Type"
+msgid "Housing Type"
+msgstr "持有方式"
+
+#: persons/models.py:184
+msgid "Country of Residence"
+msgstr "居住地"
+
+#: persons/models.py:191
+msgid "Religion"
+msgstr "宗教信仰"
+
+#: persons/models.py:197
+msgid "Citizenship Status"
+msgstr "公民身份"
+
+#: persons/models.py:203
+msgid "Relationship Status"
+msgstr "婚姻情况"
+
+#: persons/models.py:209
+msgid "Underaged Children"
+msgstr "未成年子女"
+
+#: persons/models.py:212
+msgid "Gender"
+msgstr "性别"
+
+#: persons/models.py:218
+msgid "Relationship"
+msgstr "关系"
+
+#: persons/models.py:221
+msgid "Relationship (Other)"
+msgstr "关系（其他）"
+
+#: persons/models.py:224
+msgid "Contact Number"
+msgstr "联系电话"
+
+#: persons/models.py:226 willcraft_auth/serializers.py:25
+#: willcraft_auth/serializers.py:105 willcraft_auth/serializers.py:227
+#: willcraft_auth/serializers.py:261
+msgid "Email"
+msgstr "邮箱"
+
+#: persons/serializers.py:45
+msgid "Charity"
+msgstr "慈善机构"
+
+#: persons/serializers.py:87
+msgid "Please provide a Singapore Contact Number."
+msgstr "请输入新加坡联系方式。"
+
+#: persons/serializers.py:95
+msgid "Please provide a Singapore Mailing Address."
+msgstr "请输入新加坡邮寄地址。"
+
+#: persons/serializers.py:118
+msgid ""
+"Floor number not allowed for TERRACE, SEMI_DETACHED, BUNGALOW real estate "
+"types."
+msgstr "露台，半独立式，简易别墅房地产类型不允许使用楼层号。"
+
+#: persons/serializers.py:170
+msgid "This Person is already a Donee. Please name another."
+msgstr "此人已经是被授权人了。请指定其他人。"
+
+#: persons/serializers.py:177 persons/serializers.py:188
+#: persons/serializers.py:373
+msgid "{}(s) cannot be less than 21 years old."
+msgstr "{}不能小于21周岁."
+
+#: persons/serializers.py:210
+msgid "Replacement donee must have main donee."
+msgstr "替代被授权人必须要有主被授权人。"
+
+#: persons/serializers.py:216
+msgid "Replacement donee must have main donee of matching type."
+msgstr "替代被授权人必须和主授权人匹配。"
+
+#: persons/serializers.py:222
+msgid "Named main donee not found."
+msgstr "找不到指定的主被授权人"
+
+#: persons/serializers.py:318
+msgid "You can't allocate more than {} {}."
+msgstr "你不能分配超过{}的{}。"
+
+#: persons/serializers.py:327 persons/serializers.py:334
+#: persons/serializers.py:341
+msgid "This person is already an {}."
+msgstr "此人已经是{}了。"
+
+#: persons/serializers.py:350
+msgid "Executors cannot be appointed as Substitute Executors."
+msgstr "执行人不能同时作为替代执行人。"
+
+#: persons/serializers.py:359
+msgid "This person is Substitute Executor and cannot also be an Executor."
+msgstr "此人已是替代执行人，所以不能同时成为执行人。"
+
+#: persons/serializers.py:367
+msgid "Beneficiaries cannot be appointed as Witnesses."
+msgstr "受益人不能同时作为见证人。"
+
+#: powers/models.py:6
+msgid "Jointly"
+msgstr "共同"
+
+#: powers/models.py:7
+msgid "Jointly and Severally"
+msgstr "共同连带"
+
+#: powers/models.py:16
+msgid "Unrestricted"
+msgstr "无限制"
+
+#: powers/models.py:17
+msgid "Restricted"
+msgstr "有限制"
+
+#: powers/models.py:18
+msgid "Not Allowed"
+msgstr "不允许"
+
+#: powers/models.py:28 powers/models.py:120
+msgid "Mode of Acting"
+msgstr "代理方式"
+
+#: powers/models.py:30 powers/models.py:122
+msgid ""
+"Joint And Severally: Any one of your donees can make decisions for you. <br/"
+"> Jointly: All decisions must be agreed by both donees. If they are unable "
+"to agree on a particular issue, then both donees cannot act on your behalf "
+"for that issue."
+msgstr ""
+"共同连带：您的任何一个被授权人都可以为您做决定。<br/> 共同：所有决定都必须由"
+"两位被授权人共同同意。如果他们不能就特定问题达成协议，那么两个被授权人都不能"
+"针对这个问题代表您采取行动。"
+
+#: powers/models.py:40
+msgid "Power to Sell Non-residential Property and Give Cash Gifts"
+msgstr "出售非住宅物业及更改现金礼物的权力"
+
+#: powers/models.py:42
+msgid ""
+"If you select Unrestricted, your donee may sell your non-residential "
+"property and make gifts on your behalf, but the remaining cash <u>must be "
+"sufficient for your financial support</u>."
+msgstr ""
+"如果您选择“无限制”，您的被授权人则可能会出售您的非住宅房产并代您赠与礼物，但"
+"剩余的现金<u>必须足以满足您的经济需求</u>。”"
+
+#: powers/models.py:52
+msgid "Restriction on Cash Gifts (Max Amount)"
+msgstr "对礼物的限制"
+
+#: powers/models.py:54
+msgid ""
+"The total value of the gifts that your donee may make on your behalf in one "
+"calendar year is limited to this amount."
+msgstr "该金额为受赠人在一日历年内可代您赠与的礼物的总价值限制。"
+
+#: powers/models.py:62
+#, fuzzy
+#| msgid "Power to Sell Property"
+msgid "Power to Sell/Rent/Mortgage Residential Property"
+msgstr "出售住宅房产的权力"
+
+#: powers/models.py:64
+msgid ""
+"If you select No, your donee would have to seek the court’s approval to "
+"sell, transfer, mortgage, or otherwise deal with and affect your interest in "
+"your residential property."
+msgstr ""
+"如果您选择“否”，则您的被授权人将必须获得法院批准后才可出售、转让、抵押或以其"
+"他方式处分您的房产相关权利。"
+
+#: powers/models.py:75 powers/models.py:87 powers/serializers.py:24
+msgid "Restricted Property"
+msgstr "限制房产"
+
+#: powers/models.py:77 powers/models.py:89
+msgid ""
+"This property may not be sold, transfered, mortgaged, or otherwise dealt "
+"with without court approval."
+msgstr "无论是否经过法院批准，该房产都不得出售、转让、抵押、或以其他方式交易。"
+
+#: powers/models.py:108
+msgid "Power to Refuse or Accept Medical Treatment"
+msgstr "拒绝或接受医疗的权力"
+
+#: powers/models.py:110
+msgid ""
+"This includes power to give or refuse consent to start or continue your "
+"treatments, including clinical trials (which involve the testing of new "
+"health substances such as medication or medical devices)."
+msgstr ""
+"这包括拒绝或同意开始或继续治疗的权力，包括临床试验（涉及新医疗技术，例如药物"
+"或医疗设备）。"
+
+#: powers/serializers.py:36
+#, fuzzy
+#| msgid ""
+#| "Please select Jointly since you only have one Donee that can made "
+#| "decisions on your Property and Affairs."
+msgid ""
+"You only have one Donee that can made decisions on your Property and Affairs."
+msgstr ""
+"请选择“共同”， 因为您只有一名可以为您的房产及其他事务做决定的被授权人。"
+
+#: powers/serializers.py:73
+#, fuzzy
+#| msgid ""
+#| "Please select Jointly since you only have one Donee that can made "
+#| "decisions on your Personal Welfare."
+msgid ""
+"You only have one Donee that can made decisions on your Personal Welfare."
+msgstr "请选择“共同”， 因为您只有一名可以为您的个人福利做决定的被授权人。"
+
+#: templates/email_templates/password_reset_email.html:6
+#: templates/email_templates/password_reset_email.txt:5
+#, python-format
+msgid ""
+"You're receiving this email because you requested a password reset for your "
+"user account at %(site_name)s."
+msgstr " 您在%(site_name)s的账号正在申请密码重置。"
+
+#: templates/email_templates/password_reset_email.html:8
+#: templates/email_templates/password_reset_email.txt:7
+msgid "Please go to the following page and choose a new password:"
+msgstr "请转到下列的链接并设置新的密码。"
+
+#: templates/email_templates/password_reset_email.html:12
+#: templates/email_templates/password_reset_email.txt:11
+msgid "Your username, in case you’ve forgotten:"
+msgstr "您的用户名，以防您忘了"
+
+#: templates/email_templates/password_reset_email.html:14
+#: templates/email_templates/password_reset_email.txt:13
+msgid "Thanks for using WillCraft!"
+msgstr "感谢您使用WillCraft!"
+
+#: templates/email_templates/password_reset_email.html:16
+#: templates/email_templates/password_reset_email.txt:15
+#, python-format
+msgid "The %(site_name)s team"
+msgstr "%(site_name)s 团队"
+
+#: templates/email_templates/password_reset_subject.txt:2
+#, python-format
+msgid "Password reset on %(site_name)s"
+msgstr "在 %(site_name)s 重置密码"
+
+#: willcraft_auth/admin.py:27
+msgid "Personal info"
+msgstr "个人信息"
+
+#: willcraft_auth/admin.py:29
+msgid "Permissions"
+msgstr "许可"
+
+#: willcraft_auth/admin.py:40
+msgid "Important dates"
+msgstr "重要日期"
+
+#: willcraft_auth/serializers.py:27
+msgid "Status"
+msgstr "状态"
+
+#: willcraft_auth/serializers.py:107 willcraft_auth/serializers.py:158
+#: willcraft_auth/serializers.py:262
+msgid "Password"
+msgstr "密码"
+
+#: willcraft_auth/serializers.py:116
+msgid "Email is not registered."
+msgstr "邮箱未注册。"
+
+#: willcraft_auth/serializers.py:125
+msgid "Must include \"email\" and \"password\"."
+msgstr "必须包括 \"email\" 和 \"password\"。"
+
+#: willcraft_auth/serializers.py:139 willcraft_auth/serializers.py:201
+msgid "User account is disabled."
+msgstr "用户账户已被禁用。"
+
+#: willcraft_auth/serializers.py:142 willcraft_auth/serializers.py:207
+msgid "Unable to log in with provided credentials."
+msgstr "无法使用提供的信息登录。"
+
+#: willcraft_auth/serializers.py:161 willcraft_auth/serializers.py:263
+msgid "Password (Again)"
+msgstr "密码（请再次输入)"
+
+#: willcraft_auth/serializers.py:164
+msgid "Token"
+msgstr "令牌"
+
+#: willcraft_auth/serializers.py:170 willcraft_auth/serializers.py:434
+msgid "Email does not exist."
+msgstr "邮箱不存在。"
+
+#: willcraft_auth/serializers.py:187
+msgid "Must include \"email\"."
+msgstr "必须包括 \"email\"。"
+
+#: willcraft_auth/serializers.py:192 willcraft_auth/serializers.py:282
+#: willcraft_auth/serializers.py:462
+msgid "The two password fields didn't match."
+msgstr "两次密码输入不一致。"
+
+#: willcraft_auth/serializers.py:198
+msgid "Token Error. Please Contact Us Directly."
+msgstr "令牌错误。请直接与我们联系。"
+
+#: willcraft_auth/serializers.py:204
+msgid "Password exists, token login not authorised."
+msgstr "密码存在，令牌登录没有权限。"
+
+#: willcraft_auth/serializers.py:233 willcraft_auth/serializers.py:269
+msgid "A user is already registered with this e-mail address."
+msgstr "该邮箱地址已被注册使用。"
+
+#: willcraft_auth/serializers.py:355
+msgid "New Password"
+msgstr "新密码"
+
+#: willcraft_auth/serializers.py:357
+msgid "New Password (Again)"
+msgstr "新密码（请再次输入)"
+
+#: willcraft_auth/serializers.py:392
+msgid "Your old password was entered incorrectly. Please enter it again."
+msgstr "您的旧密码输入错误，请再试一次。"
+
+#: willcraft_auth/serializers.py:427 willcraft_auth/serializers.py:444
+msgid "Application Does Not Exist."
+msgstr "申请不存在。"
+
+#: willcraft_auth/serializers.py:470
+msgid "Invalid token."
+msgstr "无效令牌。"
+
+#: willcraft_auth/views.py:247
+msgid "Successfully logged out."
+msgstr "成功注销。"
+
+#, python-brace-format
+#~ msgid "Person with id {beneficiary} does not exist."
+#~ msgstr "ID为{beneficiary}的人不存在。"
+
+#~ msgid ""
+#~ "This person is already an {replacement_donee_type.type_name.title()}."
+#~ msgstr "此人已经是{updated_type.type_name.title()}了。"
+
+#, fuzzy
+#~| msgid "This Person is already a Donee. Please name another."
+#~ msgid "This person is already an {donee_type.type_name.title()}."
+#~ msgstr "此人已经是{updated_type.type_name.title()}了。"
+
+#~ msgid " No."
+#~ msgstr "号"
+
+#~ msgid "Mobile Contact Number"
+#~ msgstr "手机联系电话"
+
+#~ msgid "Office Contact Number"
+#~ msgstr "公司联系电话"

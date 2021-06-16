@@ -1,0 +1,10 @@
+Hi Admin,
+
+You got the following enquiry from {{name}} ({{email}})
+
+Subject:
+{{subject}}
+Message:
+{{message}}
+
+Thank you!

@@ -1,0 +1,27 @@
+{% extends 'email_templates/base_template.html' %} {% block content %}
+
+<p dir="ltr" style="text-align: justify;">
+  <span style="font-size:14px">Hi Admin,</span>
+</p>
+<p dir="ltr" style="text-align: justify;">
+  <span style="font-size:14px"
+    >You got the following enquiry from {{name}}
+    {% if email %}
+      ({{email}})
+    {% endif %}
+
+    {% if contact_number %}
+      ({{contact_number}})
+    {% endif %}
+
+    .</span
+  >
+</p>
+<p dir="ltr" style="text-align: justify;">
+  <span style="font-size:14px">Subject: {{subject}}.</span>
+</p>
+<p dir="ltr" style="text-align: justify;">
+  <span style="font-size:14px">Message: {{message}}.</span>
+</p>
+
+{% endblock content %}

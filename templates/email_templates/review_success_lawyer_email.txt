@@ -1,0 +1,24 @@
+Dear {{user}},
+
+Thank you for using WillCraft! You have agreed that {{firm}} will review your Will for a fixed fee of S$49.00 (exc. GST) which has already been collected. The order number with regard to the Will is {{order}}.
+
+As set out on our site, the Scope of Work shall be limited to video call of 15-minutes’ duration strictly in respect of the following:
+  a.	To explain the draft Will to you and check that your intentions are accurately effected in the draft Will according to what is entered by you into the WillCraft online platform at www.willcraftnow.com; and
+  b.	To check that the draft Will complies with all verifiable legal formalities including confirming that you are above 21 years old, of sound mind, and that you understand the contents of the draft Will.
+
+You'll also find attached the standard terms and conditions of {{firm}} which governs this engagement.
+
+IMPORTANT: In order to facilitate the engagement, please send over a picture of your NRIC so that the lawyer may verify your age and identity.
+
+Please note that this engagement is strictly between the Legal Service Provider and yourself. WillCraft does not take any referral fees or participate in any profit sharing with the Legal Service Providers.
+
+We really care about your experience with us, so if you have any comments or feedback, or would like to get in touch, email us at enquiries@willcraftnow.com.
+
+Thank you for using WillCraft!
+
+Yours,
+The WillCraft Team
+
+
+------------------------------------------
+WARNING : This email may contain information that is private and confidential. If you receive this email by mistake, you should immediately notify the sender and delete the email.

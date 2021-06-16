@@ -1,0 +1,11 @@
+Pillow==5.2.0
+boto3==1.14.13
+botocore==1.17.13
+draftjs-exporter==3.0.0
+Jinja2==2.10.1
+pdfrw==0.4
+PyPDF2==1.26.0
+pytz==2018.5
+reportlab==3.5.1
+requests==2.22.0
+

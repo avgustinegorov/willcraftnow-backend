@@ -1,0 +1,6 @@
+
+static_dev/
+
+**.git
+**/node_modules/
+**db.sqlite3

@@ -1,0 +1,54 @@
+{% extends 'backbone.html' %}
+{% load widget_tweaks %}
+
+{% load static %}
+
+{% block style %}
+
+{% endblock style %}
+
+{% block body %}
+
+<header style="height:15vh">
+  {% include "navbar.html" %}
+</header>
+
+<body>
+  <div class="row mb-4 justify-content-center">
+    {% include "main_logo.html" %}
+  </div>
+  <div class="row mb-2 justify-content-center">
+    <div class="">
+      <h2 class="h1-responsive">Terms and Conditions</h2>
+    </div>
+  </div>
+
+  <!-- Nav tabs -->
+  <div class="container my-5">
+    <ul class="nav nav-tabs md-tabs nav-justified default-color-dark">
+        <li class="nav-item">
+            <a class="nav-link active" data-toggle="tab" href="#panel1" role="tab">For Users</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="tab" href="#panel2" role="tab">For Lawyers</a>
+        </li>
+    </ul>
+  </div>
+<!-- Tab panels -->
+<div class="tab-content container">
+    <!--Panel 1-->
+    <div class="tab-pane fade in show active" id="panel1" role="tabpanel">
+        {% include "terms_and_conditions_user.html" %}
+    </div>
+    <!--/.Panel 1-->
+    <!--Panel 2-->
+    <div class="tab-pane fade" id="panel2" role="tabpanel">
+        {% include "terms_and_conditions_lawyer.html" %}
+    </div>
+    <!--/.Panel 2-->
+</div>
+
+
+</body>
+
+{% endblock body %}

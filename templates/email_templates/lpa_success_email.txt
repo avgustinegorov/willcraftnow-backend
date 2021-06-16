@@ -1,0 +1,18 @@
+Dear {{user}},
+
+You’re all done! Your order number is {{order}}. If you enjoyed using WillCraft and have a friend who’ll enjoy using us too, refer them using your personal referral code for a discount of S$9.90. The referral code is found on your dashboard.
+
+Attached to this email you’ll find a PDF of your draft LPA and an Execution Letter. The password to access your LPA is your NRIC/Passport number. An LPA requires a Certificate Provider which you have already chosen from our list of Legal Service Providers. Please go through the Execution letter, and a Lawyer from the Legal Service Provider will be in touch within three (3) business days to complete the execution of your LPA, and guide you through the rest of the process.
+
+If you have any other questions, don’t hesitate to reach out to your chosen Legal Service Provider for legal advice. You may also contact us at enquiries@willcraftnow.com.
+
+We really care about your experience with us, so if you have any comments or would like to get in touch, email us at enquiries@willcraftnow.com.
+
+Thank you for using WillCraft!
+
+Yours,
+The WillCraft Team
+
+
+------------------------------------------
+WARNING : This email may contain information that is private and confidential. If you receive this email by mistake, you should immediately notify the sender and delete the email.

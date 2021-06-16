@@ -1,0 +1,8 @@
+Hi {{name|title}},
+
+Thanks for reaching out! Our team has received your query and will be in touch shortly. In the meantime, you may find our FAQs page helpful. If you’d like to start drafting your Will right away, our interface provides ‘helpful hints’ that explain legal terms and formalities to guide you every step of the way.
+
+Happy crafting!
+
+Yours,
+The WillCraft Team.
